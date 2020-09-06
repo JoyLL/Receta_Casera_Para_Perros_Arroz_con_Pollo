@@ -42,6 +42,9 @@
      text-decoration: none;
  }
  
+ body{
+    background-image: url(https://tusimagenesde.com/wp-content/uploads/2017/03/color-salmon-6.jpg);
+ }
  main {
      margin: 2em;
  }
@@ -56,6 +59,9 @@
     /*color: #55423;*/
     /*color: rgb(35, 175, 164); */
     /*color: rgba(203, 206, 30, 0.3);*/
+ }
+ main h1{
+     padding-left: 3em;
  }
  
  p{
@@ -84,6 +90,6 @@
  footer {
      text-align: center;
      background:salmon;
-     color: white;
+     color: black;
      padding: 2em;
  }
